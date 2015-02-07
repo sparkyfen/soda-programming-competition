@@ -26,5 +26,5 @@ Question 8 also failed but probably due to a small bubble sort implementation er
 
 License
 ----------
-* Code - Unknown
+* Code - [MIT](http://brutalhonesty.mit-license.org/) - [TL;DR](https://tldrlegal.com/license/mit-license)
 * Problem Set - Unknown
